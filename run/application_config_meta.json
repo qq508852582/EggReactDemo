@@ -1,0 +1,340 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js",
+    "dir": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js",
+    "encoding": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "env": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "level": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js",
+    "dir": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js",
+    "maxAge": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.local.js",
+    "dynamic": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js",
+  "middleware": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.default.js",
+  "development": {
+    "watchDirs": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.local.js",
+    "ignoreDirs": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.local.js",
+    "fastReady": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-development/config/config.default.js"
+  },
+  "reactssr": {
+    "injectCss": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.local.js",
+    "doctype": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "layout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "manifest": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectJs": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "crossorigin": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectRes": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "mergeLocals": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "afterRender": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js"
+  },
+  "webpack": {
+    "webpackConfigList": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.local.js",
+    "port": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-webpack/config/config.default.js",
+      "match": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-webpack/config/config.default.js"
+    }
+  },
+  "security": {
+    "domainWhiteList": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/config/config.local.js",
+    "protocolWhiteList": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+      ".jsx": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-view-react-ssr/config/config.default.js"
+    }
+  },
+  "cors": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-cors/config/config.default.js",
+  "webpackreact": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg-webpack-react/config/config.default.js",
+  "env": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "name": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "version": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "description": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "clean": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "build": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "dev": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "debug": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "start": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "lint": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "fix": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "ii": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "antd": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-view-react-ssr": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "extend": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "history": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "moment": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react-dom": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react-router": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react-router-config": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react-redux": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react-router-dom": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "react-router-redux": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "redux": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "babel-preset-react": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "easywebpack-react": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "egg-webpack-react": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "eslint-plugin-react": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "ip": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "sass-loader": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "url": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "license": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "webpack": {
+      "loaders": {
+        "scss": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "port": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/jiangxiaoming/Desktop/WorkSpace/学习/EggReactDemo/node_modules/egg/config/config.default.js"
+}
